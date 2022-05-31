@@ -1,12 +1,14 @@
 <template>
   <Header />
   <Cards />
+  <ShellInfo />
   <Footer />
 </template>
 
 <script>
 import Header from "./components/Header.vue";
 import Cards from "./components/Cards.vue";
+import ShellInfo from "./components/ShellInfo.vue";
 import Footer from "./components/Footer.vue";
 import "./assets/css/main.css";
 
@@ -15,6 +17,7 @@ export default {
   components: {
     Header,
     Cards,
+    ShellInfo,
     Footer,
   },
 };
