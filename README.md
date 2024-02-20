@@ -17,4 +17,4 @@ The Wireframe I created with Figma.
 
 This Website has been deployed on GitHub Pages.
 
-[check it out here](https://versi-on.github.io/rare-shells/)
+[check it out here](https://visi-on.github.io/rare-shells/)
